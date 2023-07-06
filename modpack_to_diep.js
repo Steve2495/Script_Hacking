@@ -3,7 +3,6 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Make it easy for yourself to play :)
-// @author       Maxim_MoPeR
 // @match        https://diep.io/*
 // @icon         https://www.google.com/s2/favicons?domain=diep.io
 // @grant        none
